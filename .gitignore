@@ -1,6 +1,7 @@
 # User Defined
 .DS_Store
 Thumbs.db
+zipfiles/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
